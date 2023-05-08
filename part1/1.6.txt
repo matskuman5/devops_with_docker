@@ -1,0 +1,9 @@
+$ docker run -it --name exercise devopsdockeruh/pull_exercise
+
+$ docker exec -it exercise cat index.js
+
+$ docker attach exercise
+
+$ basics
+You found the correct password. Secret message is:
+"This is the secret message"
