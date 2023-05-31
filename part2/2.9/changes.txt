@@ -1,0 +1,1 @@
+changed REACT_APP_BACKEND_URL to be http://localhost/api/ instead of http://localhost:8000 in the frontend dockerfile
